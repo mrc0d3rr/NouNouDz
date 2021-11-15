@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdennour Mez</h1>
+<h1 align="center">Hi 👋, I'm Abdennur Mez</h1>
 <h3 align="center">A full stack web devloper from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nounoudz&label=Profile%20views&color=0e75b6&style=flat" alt="nounoudz" /> </p>
